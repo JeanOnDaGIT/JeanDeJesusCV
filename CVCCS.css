@@ -1,0 +1,40 @@
+* {
+	font-family: Verdana, sans serif;
+}
+
+h1.center , h1{
+	text-align: center;
+	border: 3px solid black;
+	font-family: Verdana, sans serif;
+}
+
+p.center {
+	text-align: center;
+}
+
+a {
+	text-align: center;
+}
+
+h2.center {
+	text-align: center;
+}
+
+p.indent {
+	text-indent: 50px;
+	font-weight: bold;
+	border: 1.5px solid black;
+}
+
+h3.experience {
+	border: 1.5px solid black;
+}
+
+ul.indent{
+	text-indent: 50px;
+	font-weight: bold;
+}
+
+.interest {
+	border: center;
+}
